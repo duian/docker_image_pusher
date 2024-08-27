@@ -4,6 +4,6 @@ langgenius/dify-api:0.7.2
 nginx:latest
 ubuntu/squid:latest
 langgenius/dify-sandbox:0.2.6
-redis:7.4.0
+redis:6-alpine
 postgres:15-alpine
 #支持指定架构
