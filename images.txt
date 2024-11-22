@@ -6,4 +6,5 @@ ubuntu/squid:latest
 langgenius/dify-sandbox:0.2.10
 redis:6-alpine
 postgres:15-alpine
+semitechnologies/weaviate:1.19.0
 #支持指定架构
